@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/reactkanban/static/css/main.aea6e4a6.css",
-    "main.js": "/reactkanban/static/js/main.87000063.js",
-    "index.html": "/reactkanban/index.html",
-    "main.aea6e4a6.css.map": "/reactkanban/static/css/main.aea6e4a6.css.map",
-    "main.87000063.js.map": "/reactkanban/static/js/main.87000063.js.map"
+    "main.css": "/beautifuldnd/static/css/main.aea6e4a6.css",
+    "main.js": "/beautifuldnd/static/js/main.87000063.js",
+    "index.html": "/beautifuldnd/index.html",
+    "main.aea6e4a6.css.map": "/beautifuldnd/static/css/main.aea6e4a6.css.map",
+    "main.87000063.js.map": "/beautifuldnd/static/js/main.87000063.js.map"
   },
   "entrypoints": [
     "static/css/main.aea6e4a6.css",
